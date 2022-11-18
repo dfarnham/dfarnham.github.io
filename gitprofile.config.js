@@ -7,18 +7,18 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['rustc-dev-guide','dfarnham.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
     linkedin: 'davefarnham',
-    //twitter: 'arif_szn',
+    twitter: '',
     facebook: '',
     instagram: '',
     dribbble: '',
     behance: '',
-    //medium: 'arifszn',
-    //dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     website: 'https://dfarnham.github.io',
     phone: '',
@@ -31,40 +31,45 @@ const config = {
     'Python',
     'Rust',
     'Java',
+    'Perl',
     'C/C++',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
+    'Ansible',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Laboratory for Atmospheric and Space Physics',
+      position: 'Research Assistant',
+      from: 'May 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://lasp.colorado.edu',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Pearson R&D, Cognitive Computing AI Solutions',
+      position: 'Data Scientist / R&D',
+      from: 'August 2019',
+      to: 'December 2021',
+    },
+    {
+      company: 'Parallel Consulting, LLC',
+      position: 'Data Scientist / R&D Architect',
+    },
+    {
+      company: 'Oracle Corporation',
+      position: 'Data Scientist / R&D',
     },
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Colorado State University',
+      degree: 'Masters Program - Computer Science',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Colorado State University',
+      degree: 'Computer Science & Mathematics',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
