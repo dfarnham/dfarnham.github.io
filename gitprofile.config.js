@@ -20,7 +20,7 @@ const config = {
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://dfarnham.github.io',
+    website: 'dfarnham.github.io',
     phone: '',
     email: 'dave.farnham@icloud.com',
   },
@@ -37,6 +37,7 @@ const config = {
     'Scikit-learn',
     'Pandas',
     'NumPy',
+    'Smile',
     'Lex/Yacc',
     'C/C++',
     'R',
