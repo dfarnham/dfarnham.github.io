@@ -50,26 +50,34 @@ const config = {
     {
       company: 'Pearson R&D, Cognitive Computing AI Solutions',
       position: 'Data Scientist / R&D',
-      from: 'August 2019',
+      from: 'August 2018',
       to: 'December 2021',
     },
     {
       company: 'Parallel Consulting, LLC',
       position: 'Data Scientist / R&D Architect',
+      from: '2014',
+      to: 'Present',
     },
     {
       company: 'Oracle Corporation',
       position: 'Data Scientist / R&D',
+      from: '2012',
+      to: '2018',
     },
   ],
   education: [
     {
       institution: 'Colorado State University',
       degree: 'Masters Program - Computer Science',
+      from: '',
+      to: '',
     },
     {
       institution: 'Colorado State University',
       degree: 'Computer Science & Mathematics',
+      from: '',
+      to: '',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
