@@ -34,13 +34,18 @@ const config = {
     'Groovy',
     'Perl',
     'Ragel',
+    'Scikit-learn',
+    'Pandas',
+    'NumPy',
     'Lex/Yacc',
     'C/C++',
+    'R',
     'Git',
     'Docker',
     'Ansible',
     'MySQL',
     'PostgreSQL',
+    'Linux',
   ],
   experiences: [
     {
