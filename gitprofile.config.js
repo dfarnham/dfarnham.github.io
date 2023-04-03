@@ -78,12 +78,6 @@ const config = {
   education: [
     {
       institution: 'Colorado State University',
-      degree: 'Masters Program - Computer Science',
-      from: '',
-      to: '',
-    },
-    {
-      institution: 'Colorado State University',
       degree: 'Computer Science & Mathematics',
       from: '',
       to: '',
