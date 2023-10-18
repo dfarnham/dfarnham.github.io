@@ -52,7 +52,7 @@ const config = {
   experiences: [
     {
       company: 'Laboratory for Atmospheric and Space Physics',
-      position: 'Research Assistant',
+      position: 'Operations Software Developer',
       from: 'May 2022',
       to: 'Present',
       companyLink: 'https://lasp.colorado.edu',
