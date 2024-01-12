@@ -54,7 +54,7 @@ const config = {
       company: 'Laboratory for Atmospheric and Space Physics',
       position: 'Operations Software Developer',
       from: 'May 2022',
-      to: 'Present',
+      to: 'Jan 2024',
       companyLink: 'https://lasp.colorado.edu',
     },
     {
