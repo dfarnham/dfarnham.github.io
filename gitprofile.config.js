@@ -53,6 +53,7 @@ const config = {
     {
       company: 'Self Employed',
       from: 'Jan 2024',
+      to: 'Present',
     },
     {
       company: 'Laboratory for Atmospheric and Space Physics',
