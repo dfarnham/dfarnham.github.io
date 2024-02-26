@@ -51,6 +51,10 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Self Employed',
+      from: 'Jan 2024',
+    },
+    {
       company: 'Laboratory for Atmospheric and Space Physics',
       position: 'Operations Software Developer',
       from: 'May 2022',
